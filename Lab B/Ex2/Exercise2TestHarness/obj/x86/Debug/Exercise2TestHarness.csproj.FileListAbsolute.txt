@@ -1,0 +1,10 @@
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex2\Exercise2TestHarness\obj\x86\Debug\Exercise2TestHarness.csproj.AssemblyReference.cache
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex2\Exercise2TestHarness\obj\x86\Debug\Exercise2TestHarness.csproj.CoreCompileInputs.cache
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex2\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.exe.config
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex2\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.exe
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex2\Exercise2TestHarness\bin\Debug\Exercise2TestHarness.pdb
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex2\Exercise2TestHarness\bin\Debug\Exercise2.dll
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex2\Exercise2TestHarness\bin\Debug\Exercise2.pdb
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex2\Exercise2TestHarness\obj\x86\Debug\Exercise2TestHarness.csproj.CopyComplete
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex2\Exercise2TestHarness\obj\x86\Debug\Exercise2TestHarness.exe
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex2\Exercise2TestHarness\obj\x86\Debug\Exercise2TestHarness.pdb

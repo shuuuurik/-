@@ -1,0 +1,6 @@
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex1\ControlRegister\bin\Debug\Exercise2.dll
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex1\ControlRegister\bin\Debug\Exercise2.pdb
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex1\ControlRegister\obj\x86\Debug\ControlRegister.csproj.AssemblyReference.cache
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex1\ControlRegister\obj\x86\Debug\ControlRegister.csproj.CoreCompileInputs.cache
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex1\ControlRegister\obj\x86\Debug\Exercise2.dll
+D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab B\Ex1\ControlRegister\obj\x86\Debug\Exercise2.pdb
