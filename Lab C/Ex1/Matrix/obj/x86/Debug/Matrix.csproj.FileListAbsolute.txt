@@ -1,6 +1,0 @@
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab C\Ex1\Matrix\bin\Debug\Exercise3.dll
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab C\Ex1\Matrix\bin\Debug\Exercise3.pdb
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab C\Ex1\Matrix\obj\x86\Debug\Matrix.csproj.AssemblyReference.cache
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab C\Ex1\Matrix\obj\x86\Debug\Matrix.csproj.CoreCompileInputs.cache
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab C\Ex1\Matrix\obj\x86\Debug\Exercise3.dll
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab C\Ex1\Matrix\obj\x86\Debug\Exercise3.pdb

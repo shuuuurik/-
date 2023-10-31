@@ -1,9 +1,0 @@
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab A\Ex1\MeasuringDevice\obj\x86\Debug\MeasuringDevice.csproj.AssemblyReference.cache
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab A\Ex1\MeasuringDevice\obj\x86\Debug\MeasuringDevice.csproj.CoreCompileInputs.cache
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab A\Ex1\MeasuringDevice\bin\Debug\MeasuringDevice.dll
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab A\Ex1\MeasuringDevice\bin\Debug\MeasuringDevice.pdb
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab A\Ex1\MeasuringDevice\bin\Debug\DeviceController.dll
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab A\Ex1\MeasuringDevice\bin\Debug\DeviceController.pdb
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab A\Ex1\MeasuringDevice\obj\x86\Debug\MeasuringDevice.csproj.CopyComplete
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab A\Ex1\MeasuringDevice\obj\x86\Debug\MeasuringDevice.dll
-D:\NET_Fraemwork\Laboratory Works\Lab_10\Lab A\Ex1\MeasuringDevice\obj\x86\Debug\MeasuringDevice.pdb
